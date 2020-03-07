@@ -1,0 +1,4 @@
+my name is sakhi
+inside ec2 instance
+this is git repo
+
